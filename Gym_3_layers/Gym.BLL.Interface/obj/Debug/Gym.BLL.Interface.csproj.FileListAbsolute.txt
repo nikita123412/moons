@@ -1,0 +1,17 @@
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Gym.BLL.Interface.dll
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Gym.BLL.Interface.pdb
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Entities.dll
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Entities.pdb
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.dll
+C:\Users\Morpheus\source\repos\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.pdb
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Gym.BLL.Interface.dll
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Gym.BLL.Interface.pdb
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Entities.dll
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\bin\Debug\Entities.pdb
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.csprojAssemblyReference.cache
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.csproj.CopyComplete
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.dll
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Gym.BLL.Interface\obj\Debug\Gym.BLL.Interface.pdb

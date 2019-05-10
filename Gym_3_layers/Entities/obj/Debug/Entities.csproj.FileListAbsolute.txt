@@ -1,0 +1,12 @@
+C:\Users\Morpheus\source\repos\Gym_3_layers\Entities\bin\Debug\Entities.dll
+C:\Users\Morpheus\source\repos\Gym_3_layers\Entities\bin\Debug\Entities.pdb
+C:\Users\Morpheus\source\repos\Gym_3_layers\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\Gym_3_layers\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\source\repos\Gym_3_layers\Entities\obj\Debug\Entities.dll
+C:\Users\Morpheus\source\repos\Gym_3_layers\Entities\obj\Debug\Entities.pdb
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Entities\bin\Debug\Entities.dll
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Entities\bin\Debug\Entities.pdb
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Entities\obj\Debug\Entities.dll
+C:\Users\voron\Desktop\Net_Task2\Gym_3_layers\Entities\obj\Debug\Entities.pdb
